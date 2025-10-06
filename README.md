@@ -1,4 +1,4 @@
-# IntelliAgent: Multi-Agent System with SAP AI Core
+# Self Correcting Agents: Multi-Agent System with SAP AI Core
 
 A sophisticated multi-agent system that leverages SAP AI Core for intelligent task execution, featuring a worker agent for complex task handling and an evaluator agent for response validation.
 
